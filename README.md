@@ -6,8 +6,8 @@ Drupal CMS enumeration Tool
 DrupalKiller provides an efficient way to collect drupal information
 
 Enumeration
-[ss1](https://github.com/MorphyKutay/DrupalKiller/blob/main/ss1.png)
-[ss2](https://github.com/MorphyKutay/DrupalKiller/blob/main/ss1.png)
+(https://github.com/MorphyKutay/DrupalKiller/blob/main/ss1.png)
+(https://github.com/MorphyKutay/DrupalKiller/blob/main/ss1.png)
 
 ## Supported tested version
 
