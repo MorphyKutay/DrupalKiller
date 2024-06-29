@@ -1,0 +1,7 @@
+/admin/login
+/CHANGELOG.txt
+/user/login
+/web.config
+/LICENSE.txt
+/xmlrpc.php
+/update.php
