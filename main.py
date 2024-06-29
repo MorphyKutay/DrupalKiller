@@ -54,7 +54,7 @@ def modulesenum():
         """for i in range(1, 4):
             print("taranıyor" + "." * i, end='\r')
             time.sleep(1) """
-        print("Scanning Modules...")
+        #print("Scanning Modules...")
         if response.status_code == 200:
             print("[+] ", url + mod + modpath)
     
